@@ -3,6 +3,6 @@ pandas
 scikit-learn
 streamlit
 nltk
-mysql-connector-python
 matplotlib
 seaborn
+wordcloud
