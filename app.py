@@ -1,7 +1,7 @@
 import streamlit as st
 from src.predict_pipeline import PredictPipeline
 
-st.title("SMS Spam Classifier")
+st.title("📩 SMS Spam Classifier")
 
 message = st.text_area("Enter message")
 
